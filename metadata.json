@@ -1,0 +1,7 @@
+{
+  "name": "AutoSpector AI",
+  "description": "AI-powered vehicle damage detection and classification system using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
